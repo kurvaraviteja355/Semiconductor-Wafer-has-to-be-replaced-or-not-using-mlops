@@ -1,7 +1,7 @@
-mlops_main
+Mlops project to check whether the Semiconductor Wafer has to be replaced or not using Machine Learning 
 ==============================
 
-its wafer project using mlops
+Semiconditor Wafer project 
 
 Project Organization
 ------------
